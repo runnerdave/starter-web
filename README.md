@@ -17,3 +17,7 @@ This is a simple web project it can be deployed locally or externally.
 ## How to Contribute
 
 Any contributions welcomed.
+
+### Copyright
+
+2015 me.runnerdave
