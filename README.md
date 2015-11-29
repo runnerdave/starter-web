@@ -16,7 +16,7 @@ This is a simple web project it can be deployed locally or externally.
 
 ## How to Contribute
 
-Any contributions welcomed.
+Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
