@@ -12,4 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+This is a simple web project it can be deployed locally or externally.
+
 ## How to Contribute
+
+Any contributions welcomed.
